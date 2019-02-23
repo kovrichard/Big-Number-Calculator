@@ -1,4 +1,4 @@
-# Big Number Calculator
+# Big Number Calculator (Java Version)
 
 This is a program for multiplying really large numbers together, written in Java.
 
