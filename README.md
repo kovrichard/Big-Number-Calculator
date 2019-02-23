@@ -1,12 +1,10 @@
-# Big-Number-Calculator
+# Big Number Calculator
 
-With this program you can multiply really large numbers together.
+This is a program for multiplying really large numbers together, written in Java.
 
 Over time, it will be extended with more operations.
 
-
 Notes: You need to have java JDK installed on your system.
-
 
 Installation
 ----
@@ -20,6 +18,6 @@ Usage
 
 From here, type:
 
-	java src/com/company/Main <number1> <number>
+	java src/com/company/Main number1 number
 
-where <number1> and <number2> are the two numbers, you want to multiply.
+where number1 and number2 are the two numbers, you want to multiply.
