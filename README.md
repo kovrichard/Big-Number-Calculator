@@ -18,6 +18,6 @@ Usage
 
 From here, type:
 
-	java src/com/company/Main number1 number
+	java src/com/company/Main number1 number2
 
 where number1 and number2 are the two numbers, you want to multiply.
